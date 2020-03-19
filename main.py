@@ -5,7 +5,7 @@ def mapper(s1,s2):
 	# Function to check for one-to-one mapping between
 	# two strings.	
 	#  	
-	# Takes 2 strings as input and boolean output 
+	# Takes 2 strings as input and boolean output  
 
 	if(not s1 or len(s1)<=1):
 		# Boundary cases
